@@ -1,0 +1,3 @@
+{"message" : "World number 1 is Magnus Carlsen"}
+{"message" : "World number 2 is Fabiano Caruana"}
+{"message" : "World number 3 is Hikaru Nakamura"}
